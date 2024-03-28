@@ -51,18 +51,6 @@ int main(void)
     // std::string BoundariesFile = "80x80/80x80_boundaries.txt";
     // int nCellsx = 80, nCellsy = 80;
 
-    // std::string PointsFile = "120x120/120x120_points.txt";
-    // std::string FacesFile = "120x120/120x120_faces.txt";
-    // std::string CellsFile = "120x120/120x120_cells.txt";
-    // std::string BoundariesFile = "120x120/120x120_boundaries.txt";
-    // int nCellsx = 120, nCellsy = 120;
-
-    // std::string PointsFile = "160x160/160x160_points.txt";
-    // std::string FacesFile = "160x160/160x160_faces.txt";
-    // std::string CellsFile = "160x160/160x160_cells.txt";
-    // std::string BoundariesFile = "160x160/160x160_boundaries.txt";
-    // int nCellsx = 160, nCellsy = 160;
-
 
 
     /*
