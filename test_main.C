@@ -27,10 +27,10 @@ int main(void)
     /*
         SPECIFY INPUT FILES FOR MESH
     */
-    // std::string PointsFile = "points_5x5.txt";
-    // std::string FacesFile = "faces_5x5.txt";
-    // std::string CellsFile = "cells_5x5.txt";
-    // std::string BoundariesFile = "boundary_5x5.txt";  
+    // std::string PointsFile = "5x5/5x5_points.txt";
+    // std::string FacesFile = "5x5/5x5_faces.txt";
+    // std::string CellsFile = "5x5/5x5_cells.txt";
+    // std::string BoundariesFile = "5x5/5x5_boundaries.txt";  
     // int nCellsx = 5, nCellsy = 5;
 
     std::string PointsFile = "40x40/40x40_points.txt";
