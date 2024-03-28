@@ -1,6 +1,6 @@
 # Incompressible_Mesh
 
-This repository contains all the code files for the SIMPLE Algorithm Assignment.
+This repository contains all the code files for the SIMPLE Algorithm Assignment by BCN 0YIG8.
 
 The code generates a computational mesh using input data about points, faces, cells, and boundaries generated using OpenFOAM. It is capable of discretizing terms like convection, diffusion (Laplacian), and temporal derivatives, thus being able to solve the incompressible Navier-Stokes equations. The Eigen C++ library has been used to store and solve the matrices used in the ScalarField and VectorField classes.
 
