@@ -8,6 +8,8 @@ The test_main.C file contains the SIMPLE algorithm for pressure-velocity couplin
 
 For the CMake option, to compile and build, run:
 ```bash
+$ rm -rf build
+$ cmake -S . -B build
 $ cmake --build build
 $ ./build/main
 ```
